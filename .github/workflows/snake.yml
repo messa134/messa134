@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: messa134
+          outputs: github-contribution-grid-snake.svg
+
+      - name: Commit snake file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update contribution snake"
