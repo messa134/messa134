@@ -47,8 +47,6 @@ Infrastructure:
 
 ---
 
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
