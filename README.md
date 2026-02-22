@@ -70,27 +70,33 @@ Infrastructure:
 ## 🏗 Featured Systems
 
 ### 🔹 AI Product Video Engine
+
 <p align="center">
   <a href="https://github.com/messa134/ai-video-engine">
     <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
+
 Automated cinematic product generation pipeline powered by AI.
 
 ### 🔹 Algeria Wholesale Intelligence Network
+
 <p align="center">
   <a href="https://github.com/messa134/wholesale-scraper">
     <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
+
 Structured scraping & normalization system for supplier discovery.
 
 ### 🔹 Brand Automation Framework
+
 <p align="center">
   <a href="https://github.com/messa134/brand-automation">
     <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
+
 End-to-end product branding automation framework.
 
 ### ⚙️ Skill Bars
