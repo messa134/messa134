@@ -44,3 +44,11 @@ Infrastructure:
   - Workflow Optimization
   - Automation Frameworks
   - Brand System Engineering
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/messa134/messa134/output/github-contribution-grid-snake.svg" />
+</p>
